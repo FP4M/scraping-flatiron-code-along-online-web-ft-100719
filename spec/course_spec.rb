@@ -1,4 +1,4 @@
-lass course
+class course
   attr_accessor :title, :schedule, :description
   
   @@all = []
